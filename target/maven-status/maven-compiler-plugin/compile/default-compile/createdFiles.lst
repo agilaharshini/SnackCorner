@@ -1,0 +1,6 @@
+com\snackcorner\SnackCornerController.class
+com\snackcorner\product\ProductDAOImpl.class
+com\snackcorner\product\ProductServiceImpl.class
+com\snackcorner\product\ProductDAO.class
+com\snackcorner\product\Product.class
+com\snackcorner\product\ProductService.class
